@@ -54,4 +54,4 @@ void loop()
 }
 ```
 
-[Circuit](Summer-Training/The-First-Task/Images/task1-(1).png)
+![Circuit](Summer-Training/The-First-Task/Images/task1.1.png)
