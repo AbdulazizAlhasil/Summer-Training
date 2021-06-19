@@ -63,4 +63,4 @@ void loop()
 
 **3 .The Simulation design  :**
 
-[The Smulation :](https://www.tinkercad.com/things/54N1QAz5Qb5-glorious-trug)
+[Click here to show the project in TinkerCad](https://www.tinkercad.com/things/54N1QAz5Qb5-glorious-trug)
