@@ -3,7 +3,7 @@
 المهمه الأولى للتدريب الصيفي في شركة الأساليب الذكية  
 مسار الإلكترونيات والقوى
 
-**the code  :**
+**1.  the code  :**
 
 ```ruby
 
@@ -28,7 +28,7 @@ void setup()
 
 void loop()
 {
-  // sweep the servo from 0 to 180 degrees in steps
+  // sweep the servo from 0 to 90 degrees in steps
   // of 1 degrees
   for (pos = 0; pos <= 90; ++pos) {
     // tell servo to go to position in variable 'pos'
@@ -54,4 +54,13 @@ void loop()
 }
 ```
 
-![Circuit](The-First-Task/Images/task1.1.png)
+**2. The circuit  :**
+
+
+![Circuit](images/task1.png)
+
+
+
+**3 .The Simulation design  :**
+
+[The Smulation :](https://www.tinkercad.com/things/54N1QAz5Qb5-glorious-trug/editel?tenant=circuits)
