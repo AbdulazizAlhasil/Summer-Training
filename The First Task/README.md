@@ -64,3 +64,7 @@ void loop()
 **3 .The Simulation design  :**
 
 [Click here to show the project in TinkerCad](https://www.tinkercad.com/things/54N1QAz5Qb5-glorious-trug)
+
+
+**ملاحظة  :**
+**يرجى فتح الجزء الثاني من المهمه**
