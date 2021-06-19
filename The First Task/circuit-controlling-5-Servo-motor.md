@@ -1,6 +1,6 @@
 
 
-# circuit-controlling-5-Servo-motor-by-Ardiuno
+# Control of 5 servo motors by means of a variable resistance (potentiometer)
 
 **1.  the code  :**
 
@@ -59,7 +59,7 @@ void loop() {
 **2. The circuit  :**
 
 
-![Circuit](https://github.com/AbdulazizAlhasil/Summer-Training/blob/main/The%20First%20Task/Images/task1%20(1).png?raw=true)
+![Circuit](https://github.com/AbdulazizAlhasil/Summer-Training/blob/main/The%20First%20Task/Images/task1.2.png?raw=true)
 
 
 
