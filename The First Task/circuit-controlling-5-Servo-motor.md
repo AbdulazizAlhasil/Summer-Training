@@ -1,10 +1,10 @@
 
 
-circuit-controlling-5-Servo-motor-by-Ardiuno
+# circuit-controlling-5-Servo-motor-by-Ardiuno
 
 **1.  the code  :**
 
-```
+```ruby
 
 #include <Servo.h>
 Servo servo_1;
