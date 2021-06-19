@@ -57,7 +57,7 @@ void loop()
 **2. The circuit  :**
 
 
-![Circuit](images/task1.png)
+![Circuit](https://github.com/AbdulazizAlhasil/Summer-Training/blob/main/The%20First%20Task/Images/task1%20(1).png?raw=true)
 
 
 
