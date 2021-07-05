@@ -5,6 +5,7 @@
 
 For DC motor control
  We used h_bridge as its type L293D
+ With the ability to control the speed and direction by switch
 **1.  the code  :**
 
 ```ruby
@@ -56,10 +57,11 @@ void loop()
 
 **2. The circuit  :**
 
+**Move the motor forward**
+![Circuit](https://github.com/AbdulazizAlhasil/Summer-Training/blob/main/The%20Scound%20Task/Dazzling%20Curcan-Fulffy%20(2).png?raw=true)
 
-![Circuit](https://github.com/AbdulazizAlhasil/Summer-Training/blob/main/The%20First%20Task/Images/task1%20(1).png?raw=true)
-
-
+**Move the motor backwards**
+![Circuit](https://github.com/AbdulazizAlhasil/Summer-Training/blob/main/The%20Scound%20Task/Dazzling%20Curcan-Fulffy%20(2).png?raw=true)
 
 **3 .The Simulation design  :**
 
