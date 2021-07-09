@@ -33,7 +33,7 @@ void loop()
 **2. The circuit  :**
 
 
-![Circuit](https://github.com/AbdulazizAlhasil/Summer-Training/blob/main/The%20Scound%20Task/Dazzling%20Curcan-Fulffy%20(2).png?raw=true)
+![Circuit](https://github.com/AbdulazizAlhasil/Summer-Training/blob/main/The%20Scound%20Task/Terrific%20Wluff.png?raw=true)
 
 
 **3 .The Simulation design  :**
