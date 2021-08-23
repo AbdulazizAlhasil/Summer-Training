@@ -96,7 +96,7 @@ void loop()
 **3. The circuit  :**
 
 **Move the motor forward**
-![Circuit](https://github.com/AbdulazizAlhasil/Summer-Training/blob/main/The%20Scound%20Task/Dazzling%20Curcan-Fulffy%20(2).png?raw=true)
+![Circuit](https://github.com/AbdulazizAlhasil/Summer-Training/blob/main/The%20third%20task/Controlling_RobotArm_using_UltrasonicSensor.png?raw=true)
 
 
 
