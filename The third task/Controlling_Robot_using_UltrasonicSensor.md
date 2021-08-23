@@ -65,7 +65,7 @@ int getDistance(){                // defining the function to calculate the dist
 
  
 ```
-**1.  Code For Scound Arduino :**
+**2.  Code For Scound Arduino :**
 ```ruby
 
 #include <Servo.h>
@@ -100,7 +100,7 @@ void loop()
 
 
 
-**3 .The Simulation design  :**
+**4 .The Simulation design  :**
 
 [Click here to show the project in TinkerCad](https://www.tinkercad.com/things/2aFVlHpOv1s-shiny-vihelmo/editel?tenant=circuits)
 
