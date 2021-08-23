@@ -84,7 +84,7 @@ void loop ()
 **2. The circuit  :**
 
 **Move the motor forward**
-![Circuit](https://github.com/AbdulazizAlhasil/Summer-Training/blob/main/The%20third%20task/Controlling_RobotArm_using_UltrasonicSensor.png?raw=true)
+![Circuit](https://github.com/AbdulazizAlhasil/Summer-Training/blob/main/The%20third%20task/%D8%AD%D8%B1%D9%83%D8%A7%D8%AA%20%D8%A7%D9%84%D8%B1%D9%88%D8%A8%D9%88%D8%AA.png?raw=true)
 
 
 
